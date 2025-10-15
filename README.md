@@ -2,6 +2,8 @@
 
 This is a simple, terminal-based chatbot that runs entirely on your machine using a local LLM served by Ollama. It keeps per-session chat history so the model answers with context. Optionally, you can enable LangSmith to trace and inspect your conversations for debugging/evaluation.
 
+**Author:** Shanaka Fernando
+
 ## What this project is
 - A minimal Python project showing how to:
   - Use a local model via Ollama (default: `gemma3:4b`)
