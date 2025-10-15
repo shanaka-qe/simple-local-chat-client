@@ -1,9 +1,9 @@
 # Terminal Chatbot (LangChain + Ollama + optional LangSmith)
 
-This is a simple, terminal-based chatbot that runs entirely on your machine using a local LLM served by Ollama. It keeps per-session chat history so the model answers with context. Optionally, you can enable LangSmith to trace and inspect your conversations for debugging/evaluation.
-
 **Author:** Shanaka Fernando  
 **LinkedIn:** https://www.linkedin.com/in/shanaka-qe/
+
+This is a simple, terminal-based chatbot that runs entirely on your machine using a local LLM served by Ollama. It keeps per-session chat history so the model answers with context. Optionally, you can enable LangSmith to trace and inspect your conversations for debugging/evaluation.
 
 ## 🚀 Quick Start
 
